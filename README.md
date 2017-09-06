@@ -1,1 +1,2 @@
 # Esaas
+We propose our project for ESAAS subject to be a Website involving the use of html, javascipt and php. The project is intended to help the farmers and the commoners to identify the disease that the any part of the plant maybe going through . we intend on scanning and uploading the picture of the affected part of the plant and then derive the disease by comparing the picture with the images avilable in the database 
